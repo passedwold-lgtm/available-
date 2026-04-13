@@ -1,0 +1,7 @@
+Package: x2nios.native.menu
+Name: Native Menu
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: Native Menu
+Author: t.me/x2nios
+Maintainer: t.me/x2nios
